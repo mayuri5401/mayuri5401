@@ -2,11 +2,12 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"/>
-
  
 
 <h3 align="center">Aspiring software developer from India</h3>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri5401&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri5401" /> </p>
 
