@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://myportfolio2154.herokuapp.com/">Mayuri Narkhede</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
----
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"/>|
-|---|---|
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"class="center"/>|
+
  
- ---
+
 <h3 align="center">Aspiring software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri5401&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri5401" /> </p>
