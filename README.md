@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"class="center"/>|
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mayuri5401"/>
 
  
 
